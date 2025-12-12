@@ -14,7 +14,7 @@ Targets: 68000, 68020-060, ColdFire
    ```./*.h``` and  
    ```./*.c``` to the current folder.  
 
-- get /libpng.a/ from [pngdec_r1_src.zip](https://ptonthat.fr/files/gifdec/pngdec_r1_src.zip) and unpack the contents to ./  
+- get /libpng.a/ from [codecs_r4_src.zip](https://ptonthat.fr/files/gifdec/codecs_r4_src.zip) and unpack the contents to ./  
    ```./README.md```  
    ```./pnglibconf.h``` (from pnglibconf.h.prebuilt, with PNG_TARGET_SPECIFIC_CODE_SUPPORTED disabled = define commented)  
    ```./Makefile```  
